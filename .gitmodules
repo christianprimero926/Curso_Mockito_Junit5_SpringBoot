@@ -1,0 +1,9 @@
+[submodule "Seccion2_Junit5"]
+	path = Seccion2_Junit5
+	url = https://github.com/christianprimero926/junit5_app.git
+[submodule "Seccion3_Mockito"]
+	path = Seccion3_Mockito
+	url = https://github.com/christianprimero926/app-mockito.git
+[submodule "Seccion4-8_SpringBootTest"]
+	path = Seccion4-8_SpringBootTest
+	url = https://github.com/christianprimero926/springboot_test.git
